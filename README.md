@@ -9,7 +9,7 @@
 
 ## About Project
 
-Project ini di buat dengan framework larvel [Laravel](https://laravel.com/docs/). Fitur utama:
+Project ini di buat dengan framework laravel [Laravel](https://laravel.com/docs/). Fitur utama:
 
 - [Daftar, Login & Logout].
 - [Produk](Tambah produk, tampil produk, update produk & hapus produk).
